@@ -1,5 +1,6 @@
 ### Here's a little bit about me: 👋
-- 🔭 Coding enthusiast
-- 💪 I like to ride a 🚴‍♀️
--->
+
+I'm a Software engineer working.
+
+`🔭 coding enthusiast` `💪 I like to ride a 🚴‍♀️` `go` `javascript` `typescript` `node.js` `interesting 🦀 rust`
 
