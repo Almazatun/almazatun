@@ -2,5 +2,5 @@
 
 I'm a Software engineer.
 
-`🔭 coding enthusiast` `💪 I like to ride a 🚴‍♀️` `go` `javascript` `typescript` `node.js` `interesting 🦀 rust`
+`🔭 Coding enthusiast` `💪 I like to ride a 🚴‍♀️` `Go 🐹` `interesting Rust 🦀, Vlang 🐳`
 
