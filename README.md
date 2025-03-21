@@ -1,6 +1,4 @@
-### Here's a little bit about me: 👋
+I'm a Software engineer 👷‍♂️.
 
-I'm a Software engineer.
-
-`🔭 Coding enthusiast` `💪 I like to ride a 🚴‍♀️` `Go 🐹` `interesting Rust 🦀, Vlang 🐳`
+`I like to ride a 🚴‍♀️` `Iteresting Go 🐹, Rust 🦀`
 
