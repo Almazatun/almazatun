@@ -1,4 +1,4 @@
 I'm a Software engineer 👷‍♂️.
 
-`I like to ride a 🚴‍♀️` `Iteresting Go 🐹, Rust 🦀`
+`I like to ride a 🚴‍♀️` `Interesting Go 🐹, Rust 🦀`
 
